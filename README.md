@@ -17,21 +17,17 @@ Aggregates and visualizes sales performance across different product categories 
 Inferential Statistics
 Calculates confidence intervals for mean sales and performs a one-sample t-test to assess statistical significance against a population mean.
 
+
 Visual Analytics
 
 Histogram with KDE for unit distribution
-
 Category-wise box plots
-
 Aggregated bar charts of total sales
-
 Interactive UI
-
 Expandable sections for summary statistics
-
 Real-time statistical recalculations
-
 Clean, responsive Streamlit interface
+
 
 🧠 Technologies Used
 Python 3.10+
@@ -45,6 +41,7 @@ NumPy – Numerical operations and random data generation
 Matplotlib & Seaborn – Data visualization
 
 SciPy – Statistical analysis (confidence intervals, t-tests)
+
 
 📂 Project Structure
 text
@@ -75,14 +72,14 @@ streamlit run app.py
 Open in Browser
 Navigate to http://localhost:8501/ to view the dashboard.
 
+
 📸 Dashboard Preview
 Example screenshots can be added here:
-
 Dataset display
-
 Statistical summaries
-
 Distribution and category plots
+
+
 
 📈 Statistical Components
 Section	Description
@@ -99,6 +96,8 @@ Bar Chart: Total units sold per category
 
 Each chart is generated dynamically with clean color palettes and labeled axes.
 
+
+
 🧾 Example Output Summary
 Mean unit sold ≈ 20
 
@@ -108,10 +107,14 @@ Hypothesis Test Result → Fail to reject null hypothesis (p > 0.05)
 
 (Note: Results will vary per run due to random data generation.)
 
+
+
 ✨ Author
 Pranay Pinjarkar
 Data Scientist & AI Enthusiast
 💡 Passionate about data analysis, visualization, and building intelligent systems.
+
+
 
 📜 License
 This project is open source and available under the MIT License.
