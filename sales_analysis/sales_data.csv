@@ -1,0 +1,21 @@
+product_id,Product_name,category,unit_sold,sales_date
+1,Product_1,Home,25,2025-01-01 10:51:39
+2,Product_2,Books,15,2025-01-02 02:22:51
+3,Product_3,Electronics,17,2025-01-03 10:34:04
+4,Product_4,Home,19,2025-01-04 14:13:34
+5,Product_5,Home,21,2025-01-05 17:00:28
+6,Product_6,Books,17,2025-01-06 13:36:24
+7,Product_7,Electronics,19,2025-01-07 11:19:34
+8,Product_8,Electronics,16,2025-01-08 00:42:48
+9,Product_9,Home,21,2025-01-09 17:23:12
+10,Product_10,Clothing,21,2025-01-10 18:46:03
+11,Product_11,Home,17,2025-01-11 00:44:55
+12,Product_12,Home,22,2025-01-12 13:23:10
+13,Product_13,Home,14,2025-01-13 01:27:38
+14,Product_14,Home,17,2025-01-14 10:58:24
+15,Product_15,Books,17,2025-01-15 09:12:39
+16,Product_16,Electronics,21,2025-01-16 03:53:06
+17,Product_17,Books,21,2025-01-17 17:10:58
+18,Product_18,Books,13,2025-01-18 03:31:06
+19,Product_19,Books,18,2025-01-19 10:44:20
+20,Product_20,Home,25,2025-01-20 00:59:21
