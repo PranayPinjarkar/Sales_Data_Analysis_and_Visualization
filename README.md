@@ -127,5 +127,4 @@ Each chart is generated dynamically with clean color palettes and labeled axes.
 This project is open source and available under the [MIT License](LICENSE).
 
 
-## 📂 Project Structure
 
